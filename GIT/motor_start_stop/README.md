@@ -1,4 +1,4 @@
-# 01 — Motor Start/Stop
+# 01 Motor Start/Stop
 
 My first PLC program. The embedded equivalent of "Hello World" — except here, 
 a motor turns on and stays on until you tell it to stop.
