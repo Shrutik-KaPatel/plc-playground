@@ -1,0 +1,14 @@
+# TIA Portal
+*.bak
+*.tmp
+*.log
+~*
+*.ldf
+*.mdf
+
+# PLCSIM
+PLCSIM/
+
+# Windows
+Thumbs.db
+desktop.ini
